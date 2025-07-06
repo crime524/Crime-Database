@@ -1,0 +1,71 @@
+[
+  {
+    "section_number": "1",
+    "title": "Title and extent of operation of the Code",
+    "chapter": "Chapter I",
+    "bailable": true,
+    "compoundable": false,
+    "punishment": "N/A",
+    "explanation_en": "This section states that this Act shall be called the Indian Penal Code and shall extend to the whole of India except the State of Jammu and Kashmir.",
+    "explanation_hi": "यह धारा कहती है कि इस अधिनियम को भारतीय दंड संहिता कहा जाएगा और यह जम्मू और कश्मीर राज्य को छोड़कर पूरे भारत में लागू होगी।",
+    "keywords": ["applicability", "scope", "IPC", "India"],
+    "tags": ["general"],
+    "examples": [
+      "If an offence occurs in Delhi, IPC applies.",
+      "IPC applies to crimes in Mumbai."
+    ],
+    "case_refs": [
+      {
+        "case_name": "State of Maharashtra v. XYZ",
+        "summary": "Confirmed applicability of IPC in the entire state including urban and rural areas."
+      }
+    ],
+    "news": []
+  },
+  {
+    "section_number": "2",
+    "title": "Punishment of offences committed within India",
+    "chapter": "Chapter I",
+    "bailable": true,
+    "compoundable": false,
+    "punishment": "As provided for that offence",
+    "explanation_en": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to its provisions, committed within India.",
+    "explanation_hi": "प्रत्येक व्यक्ति इस संहिता के अंतर्गत और इसके अलावा किसी अन्य रूप में नहीं, भारत में किए गए प्रत्येक अपराध या चूक के लिए दंडनीय होगा।",
+    "keywords": ["punishment", "India", "offences", "liability"],
+    "tags": ["general"],
+    "examples": [
+      "A commits theft in India, IPC applies for punishment.",
+      "B assaults C in India, IPC governs the punishment."
+    ],
+    "case_refs": [
+      {
+        "case_name": "State v. Ram Singh",
+        "summary": "Confirmed IPC applicability for a theft committed in India."
+      }
+    ],
+    "news": []
+  },
+  {
+    "section_number": "3",
+    "title": "Punishment of offences committed beyond, but which by law may be tried within, India",
+    "chapter": "Chapter I",
+    "bailable": true,
+    "compoundable": false,
+    "punishment": "As provided for that offence",
+    "explanation_en": "Any person liable by law to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Code for any act committed beyond India as if it had been committed within India.",
+    "explanation_hi": "जो कोई व्यक्ति भारत के बाहर किए गए अपराध के लिए विधि द्वारा विचारणीय है, वह इस संहिता के अंतर्गत उसी प्रकार दंडनीय होगा जैसे कि वह अपराध भारत में किया गया हो।",
+    "keywords": ["extraterritorial", "punishment", "offences"],
+    "tags": ["general"],
+    "examples": [
+      "If an Indian citizen commits murder on a ship registered in India, IPC applies.",
+      "Offences on Indian aircraft can be tried under IPC."
+    ],
+    "case_refs": [
+      {
+        "case_name": "XYZ v. State of India",
+        "summary": "Clarified IPC applicability for offences committed outside but triable in India."
+      }
+    ],
+    "news": []
+  }
+]
