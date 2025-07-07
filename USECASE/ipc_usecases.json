@@ -1,0 +1,122 @@
+[
+  {
+    "section": "Section 302",
+    "title": "IPC Section 302 - Punishment for Murder",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh",
+        "court": "Supreme Court of India",
+        "date": "1991-07-16",
+        "url": "https://indiankanoon.org/doc/1120373/"
+      },
+      {
+        "case_title": "Trimukh Maroti Kirkan vs State Of Maharashtra",
+        "court": "Supreme Court of India",
+        "date": "2006-10-11",
+        "url": "https://indiankanoon.org/doc/845834/"
+    ]
+  },
+  { 
+    "section": "Section 376",
+    "title": "IPC Section 376 - Punishment for Rape",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {"case_title": "Anurag Soni vs The State Of Chhattisgarh",
+        "court": "Supreme Court of India",
+        "date": "2019-04-09",
+        "url": "https://indiankanoon.org/doc/157403081/"
+      },
+      {
+        "case_title": "Tarkeshwar Sahu vs State Of Bihar (Now Jharkhand)",
+        "court": "Supreme Court of India",
+        "date": "2006-09-29",
+        "url": "https://indiankanoon.org/doc/842160/"
+      }
+    ]
+  },
+  {
+    "section": "Section 420",
+    "title": "IPC Section 420 - Cheating and Dishonest Inducement",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Ram Lal Narang Etc. Etc vs State Of Delhi (Admn.)",
+        "court": "Supreme Court of India",
+        "date": "1979-01-10",
+        "url": "https://indiankanoon.org/doc/889775/"
+      },
+      {
+        "case_title": "Vijay Kumar Ghai vs The State Of West Bengal",
+        "court": "Supreme Court of India",
+        "date": "2022-03-22",
+        "url": "https://indiankanoon.org/doc/60158808/"
+      }
+    ]
+  },
+  {
+    "section": "Section 406",
+    "title": "IPC Section 406 - Criminal Breach of Trust",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Pratibha Rani vs Suraj Kumar & Anr",
+        "court": "Supreme Court of India",
+        "date": "1985-03-12",
+        "url": "https://indiankanoon.org/docfragment/1684706/"
+      },
+      {
+        "case_title": "Chandan Kumar Singh vs State Of Bihar & Anr",
+        "court": "Patna High Court",
+        "date": "2015-10-05",
+        "url": "https://indiankanoon.org/docfragment/180199837/"
+      },
+      {
+      "case_title": "Sukhbir Jain And Anr. vs State",
+      "court": "Delhi High Court",
+      "date": "1992-05-26",
+      "url": "https://indiankanoon.org/docfragment/894126/"
+    },
+    {
+      "case_title": "Manju Devi @ Manju Kumari vs The State Of Bihar & Ors",
+      "court": "Patna High Court",
+      "date": "2015-10-05",
+      "url": "https://indiankanoon.org/docfragment/88062987/"
+    },
+    {
+      "case_title": "Emperor vs John Mciver",
+      "court": "Madras High Court",
+      "date": "1936-01-24",
+      "url": "https://indiankanoon.org/docfragment/704289/"
+    },
+    {
+      "case_title": "Surinder Kumar Yadav & Others vs The State",
+      "court": "Delhi High Court",
+      "date": "1999-11-05",
+      "url": "https://indiankanoon.org/docfragment/86898/"
+    },
+    {
+      "case_title": "Mohit Gupta And Ors. vs State Govt. Of NCT Of Delhi And Anr.",
+      "court": "Delhi High Court",
+      "date": "2006-10-16",
+      "url": "https://indiankanoon.org/docfragment/338837/"
+    },
+    {
+      "case_title": "M/S Jai Mata Di Rice Mill, A ... vs The State Of Bihar & Ors",
+      "court": "Patna High Court",
+      "date": "2015-10-05",
+      "url": "https://indiankanoon.org/docfragment/94462349/"
+    },
+    {
+      "case_title": "G. Udayan Dravid And Ors. vs State And Ors.",
+      "court": "Delhi High Court",
+      "date": "2006-11-30",
+      "url": "https://indiankanoon.org/docfragment/1400227/"
+    }
+  ]
+}
+    
