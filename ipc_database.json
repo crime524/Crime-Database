@@ -1,0 +1,750 @@
+[
+  {
+    "section": "Section 302",
+    "title": "IPC Section 302 - Punishment for Murder",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Khujji @ Surendra Tiwari vs The State Of Madhya Pradesh",
+        "court": "Supreme Court of India",
+        "date": "1991-07-16",
+        "url": "https://indiankanoon.org/doc/1120373/"
+      },
+      {
+        "case_title": "Trimukh Maroti Kirkan vs State Of Maharashtra",
+        "court": "Supreme Court of India",
+        "date": "2006-10-11",
+        "url": "https://indiankanoon.org/doc/845834/"
+      } 
+    ]
+  },
+  { 
+    "section": "Section 376",
+    "title": "IPC Section 376 - Punishment for Rape",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {"case_title": "Anurag Soni vs The State Of Chhattisgarh",
+        "court": "Supreme Court of India",
+        "date": "2019-04-09",
+        "url": "https://indiankanoon.org/doc/157403081/"
+      },
+      {
+        "case_title": "Tarkeshwar Sahu vs State Of Bihar (Now Jharkhand)",
+        "court": "Supreme Court of India",
+        "date": "2006-09-29",
+        "url": "https://indiankanoon.org/doc/1438339/"
+      }
+    ]
+  },
+  {
+    "section": "Section 420",
+    "title": "IPC Section 420 - Cheating and Dishonest Inducement",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Ram Lal Narang Etc. Etc vs State Of Delhi (Admn.)",
+        "court": "Supreme Court of India",
+        "date": "1979-01-10",
+        "url": "https://indiankanoon.org/doc/889775/"
+      },
+      {
+        "case_title": "Vijay Kumar Ghai vs The State Of West Bengal",
+        "court": "Supreme Court of India",
+        "date": "2022-03-22",
+        "url": "https://indiankanoon.org/doc/60158808/"
+      }
+    ]
+  },
+  {
+    "section": "Section 406",
+    "title": "IPC Section 406 - Criminal Breach of Trust",
+    "type": "Use Case \u2013 Judgment",
+    "source": "Indian Kanoon",
+    "cases": [
+      {
+        "case_title": "Pratibha Rani vs Suraj Kumar & Anr",
+        "court": "Supreme Court of India",
+        "date": "1985-03-12",
+        "url": "https://indiankanoon.org/docfragment/1684706/"
+      },
+      {
+        "case_title": "Chandan Kumar Singh vs State Of Bihar & Anr",
+        "court": "Patna High Court",
+        "date": "2015-10-05",
+        "url": "https://indiankanoon.org/docfragment/180199837/"
+      },
+      {
+      "case_title": "Sukhbir Jain And Anr. vs State",
+      "court": "Delhi High Court",
+      "date": "1992-05-26",
+      "url": "https://indiankanoon.org/docfragment/894126/"
+    },
+    {
+      "case_title": "Manju Devi @ Manju Kumari vs The State Of Bihar & Ors",
+      "court": "Patna High Court",
+      "date": "2015-10-05",
+      "url": "https://indiankanoon.org/docfragment/88062987/"
+    },
+    {
+      "case_title": "Emperor vs John Mciver",
+      "court": "Madras High Court",
+      "date": "1936-01-24",
+      "url": "https://indiankanoon.org/docfragment/704289/"
+    },
+    {
+      "case_title": "Surinder Kumar Yadav & Others vs The State",
+      "court": "Delhi High Court",
+      "date": "1999-11-05",
+      "url": "https://indiankanoon.org/docfragment/86898/"
+    },
+    {
+      "case_title": "Mohit Gupta And Ors. vs State Govt. Of NCT Of Delhi And Anr.",
+      "court": "Delhi High Court",
+      "date": "2006-10-16",
+      "url": "https://indiankanoon.org/docfragment/338837/"
+    },
+    {
+      "case_title": "M/S Jai Mata Di Rice Mill, A ... vs The State Of Bihar & Ors",
+      "court": "Patna High Court",
+      "date": "2015-10-05",
+      "url": "https://indiankanoon.org/docfragment/94462349/"
+    },
+    {
+      "case_title": "G. Udayan Dravid And Ors. vs State And Ors.",
+      "court": "Delhi High Court",
+      "date": "2006-11-30",
+      "url": "https://indiankanoon.org/docfragment/1400227/"
+    }
+  }
+  {
+    "section": "IPC Section 336",
+    "cases": [
+      {
+        "case_name": "Shiv Kumar Jatia vs State Of Nct Of Delhi",
+        "case_link": "https://indiankanoon.org/docfragment/156383456/",
+        "citation": "2019 SCC OnLine SC 1066",
+        "judgment_date": "2019-08-23",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Pavan @ Pankaj Gupta vs The State Of Madhya Pradesh",
+        "case_link": "https://indiankanoon.org/docfragment/94131122/",
+        "citation": "2012 (4) MPHT 217",
+        "judgment_date": "2012-08-01",
+        "court": "Madhya Pradesh High Court"
+      },
+      {
+        "case_name": "State vs Sanjay Kumar",
+        "case_link": "https://indiankanoon.org/doc/1957123/",
+        "citation": "2020 SCC OnLine Del 1477",
+        "judgment_date": "2020-03-09",
+        "court": "Delhi High Court"
+      },
+      {
+        "case_name": "Mohammed Aneef vs State of Kerala",
+        "case_link": "https://indiankanoon.org/doc/1870712/",
+        "citation": "2020 (2) KHC 789",
+        "judgment_date": "2020-02-19",
+        "court": "Kerala High Court"
+      },
+      {
+        "case_name": "Raju @ Rajendra vs State of Rajasthan",
+        "case_link": "https://indiankanoon.org/doc/143724678/",
+        "citation": "2019 (2) RLW 1531 (Raj)",
+        "judgment_date": "2019-04-12",
+        "court": "Rajasthan High Court"
+      }
+    ]
+  }
+  {
+    [
+  {
+    "section": "IPC Section 504",
+    "cases": [
+      {
+        "case_name": "Fiona Shrikhande vs State Of Maharashtra & Anr",
+        "case_link": "https://indiankanoon.org/docfragment/80269014/",
+        "citation": "2013 (9) SCR 123",
+        "judgment_date": "2013-08-22",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Vikram Johar vs The State Of Uttar Pradesh",
+        "case_link": "https://indiankanoon.org/docfragment/194988179/",
+        "citation": "2019 SCC OnLine SC 615",
+        "judgment_date": "2019-04-26",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Bhimanna vs State Of Karnataka",
+        "case_link": "https://indiankanoon.org/docfragment/48110962/",
+        "citation": "2012 (8) SCC 660",
+        "judgment_date": "2012-09-04",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "State Of U.P. vs Mukhtar Ansari",
+        "case_link": "https://indiankanoon.org/docfragment/105773925/",
+        "citation": "2022 SCC OnLine All 867",
+        "judgment_date": "2022-09-21",
+        "court": "Allahabad High Court"
+      },
+      {
+        "case_name": "Awadhesh Kumar Mishra & 2 Others vs State Of U.P.",
+        "case_link": "https://indiankanoon.org/docfragment/186660117/",
+        "citation": "2018 SCC OnLine All 3921",
+        "judgment_date": "2018-09-12",
+        "court": "Allahabad High Court"
+      },
+      {
+        "case_name": "Mx Of Bombay Indian Inhabitant vs M/S. Zy And Another",
+        "case_link": "https://indiankanoon.org/docfragment/1264404/",
+        "citation": "1997 (2) BomCR 89",
+        "judgment_date": "1997-04-03",
+        "court": "Bombay High Court"
+      },
+      {
+        "case_name": "Shakeel Ahmad vs State Of U.P.",
+        "case_link": "https://indiankanoon.org/docfragment/14515192/",
+        "citation": "2014 SCC OnLine All 12456",
+        "judgment_date": "2014-09-24",
+        "court": "Allahabad High Court"
+      },
+      {
+        "case_name": "Lourenco D'Souza vs State Of U.P. And Another",
+        "case_link": "https://indiankanoon.org/docfragment/146492399/",
+        "citation": "2016 SCC OnLine All 6789",
+        "judgment_date": "2016-10-06",
+        "court": "Allahabad High Court"
+      }
+    ]
+  }
+  {
+  "section": "IPC 506",
+  "title": "Punishment for criminal intimidation",
+  "description": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. If the threat is to cause death or grievous hurt, it may extend to seven years.",
+  "related_section": "IPC 503",
+  "key_elements": [
+    "Threatening another person",
+    "Intent to cause alarm",
+    "Compelling them to act against their will"
+  ],
+ "important_cases": [
+    {
+      "case_name": "Sah Chaturbhuj vs Sah Mauji Ram",
+      "court": "Allahabad High Court",
+      "date": "3 December, 1935",
+      "summary": "Explored malicious use of Section 506 in context of an ongoing Section 107 CrPC proceeding.",
+      "case_link":"https://indiankanoon.org/docfragment/549889/" 
+    },
+    {
+      "case_name": "Vinod Rao vs The State Of Gujarat",
+      "court": "Gujarat High Court",
+      "date": "18 January, 1980",
+      "summary": "Clarified the bailable vs non-bailable nature of Section 506 IPC based on notifications.",
+      "case_link":"https://indiankanoon.org/docfragment/705478/" 
+    },
+    {
+      "case_name": "Chandra Shekhar Singh vs State Of U.P.",
+      "court": "Allahabad High Court",
+      "date": "2 August, 2017",
+      "summary": "Court found absence of essential ingredients required under Section 506 IPC.",
+      "case_link":"https://indiankanoon.org/docfragment/187505746/"
+    },
+    {
+      "case_name": "Kantamaneni Ravishankar vs State Of Andhra Pradesh",
+      "court": "Andhra Pradesh High Court",
+      "date": "26 August, 2020",
+      "summary": "Reiterated the necessity of proving threats as defined under Section 503 IPC.",
+      "case_link":"https://indiankanoon.org/docfragment/45498488/"
+    },
+    {
+      "case_name": "State Of U.P. vs Mukhtar Ansari",
+      "court": "Allahabad High Court",
+      "date": "21 September, 2022",
+      "summary": "Section 506 IPC applied along with Sections 504 and 353 for threatening government functionaries.",
+      "case_link":"https://indiankanoon.org/docfragment/105773925/" 
+    }
+  ]
+}
+[
+  {
+    "section": "IPC Section 145",
+    "cases": [
+      {
+        "case_name": "Rajesh Agarwal vs State & Anr.",
+        "case_link": "https://indiankanoon.org/docfragment/172347645/",
+        "citation": "2010 (172) DLT 51",
+        "judgment_date": "2010-07-28",
+        "court": "Delhi High Court"
+      },
+      {
+        "case_name": "Indian Bank Association & Ors vs Union Of India & Anr",
+        "case_link": "https://indiankanoon.org/docfragment/164769777/",
+        "citation": "2014 (5) SCC 590",
+        "judgment_date": "2014-01-21",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "M/S. Mandvi Co-Op Bank Ltd vs Nimesh B.Thakore",
+        "case_link": "https://indiankanoon.org/docfragment/1403861/",
+        "citation": "2010 (3) SCC 83",
+        "judgment_date": "2010-01-11",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Tahsildar Singh And Another vs The State Of Uttar Pradesh",
+        "case_link": "https://indiankanoon.org/docfragment/56195/",
+        "citation": "1959 AIR 1012",
+        "judgment_date": "1959-05-05",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Commissioner Of Income Tax, Delhi vs M/S Woodward Governor India P. Ltd",
+        "case_link": "https://indiankanoon.org/docfragment/978278/",
+        "citation": "2009 (312) ITR 254",
+        "judgment_date": "2009-04-08",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Amresh Tiwari vs Lalta Prasad Dubey & Anr",
+        "case_link": "https://indiankanoon.org/docfragment/944049/",
+        "citation": "2000 (4) SCC 440",
+        "judgment_date": "2000-04-11",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Tara Singh vs The State",
+        "case_link": "https://indiankanoon.org/docfragment/1912825/",
+        "citation": "1951 AIR 441",
+        "judgment_date": "1951-06-01",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Shanti Kumar Panda vs Shakutala Devi",
+        "case_link": "https://indiankanoon.org/docfragment/337165/",
+        "citation": "2003 (9) SCC 741",
+        "judgment_date": "2003-11-03",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Sachin Sangal vs Pieco Call Tech. Pvt. Ltd.",
+        "case_link": "https://indiankanoon.org/docfragment/9451755/",
+        "citation": "2010 (172) DLT 51",
+        "judgment_date": "2010-07-28",
+        "court": "Delhi High Court"
+      }
+    ]
+  }
+  {
+  
+[
+  {
+    "section": "IPC Section 147",
+    "cases": [
+      {
+        "case_name": "State of Karnataka vs. Hema Reddy",
+        "case_link": "https://indiankanoon.org/doc/1874562/",
+        "citation": "AIR 1981 SC 1417",
+        "judgment_date": "1981-04-28",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Mohan Singh vs. State of Punjab",
+        "case_link": "https://indiankanoon.org/doc/1146293/",
+        "citation": "1963 (2) SCR 848",
+        "judgment_date": "1963-01-15",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Baladin vs. State of Uttar Pradesh",
+        "case_link": "https://indiankanoon.org/doc/1508060/",
+        "citation": "AIR 1956 SC 181",
+        "judgment_date": "1956-02-28",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Masalti vs. State of Uttar Pradesh",
+        "case_link": "https://indiankanoon.org/doc/1099180/",
+        "citation": "AIR 1965 SC 202",
+        "judgment_date": "1964-11-17",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Roy Fernandes vs. State of Goa",
+        "case_link": "https://indiankanoon.org/doc/1241256/",
+        "citation": "2012 (3) SCC 221",
+        "judgment_date": "2012-02-13",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Ramachandran vs. State of Kerala",
+        "case_link": "https://indiankanoon.org/doc/1719529/",
+        "citation": "2011 (9) SCC 257",
+        "judgment_date": "2011-08-31",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Sikhar Behera vs. State of Orissa",
+        "case_link": "https://indiankanoon.org/doc/1952345/",
+        "citation": "2008 (16) SCC 481",
+        "judgment_date": "2008-10-07",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Bala @ Balaram vs. State of Karnataka",
+        "case_link": "https://indiankanoon.org/doc/1842887/",
+        "citation": "2013 (5) KarLJ 1",
+        "judgment_date": "2013-09-12",
+        "court": "Karnataka High Court"
+      }
+    ]
+  }
+ 
+{
+  "section": "IPC Section 307",
+  "cases": [
+    {
+      "case_name": "Narinder Singh & Ors vs State Of Punjab & Anr",
+      "case_link": "https://indiankanoon.org/docfragment/160278245/",
+      "citation": "2014 (6) SCC 466",
+      "judgment_date": "2014-03-27",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "The State Of Madhya Pradesh vs Laxmi Narayan",
+      "case_link": "https://indiankanoon.org/docfragment/149247382/",
+      "citation": "2019 (5) SCC 688",
+      "judgment_date": "2019-03-05",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "The State Of Madhya Pradesh vs Dhruv Gurjar",
+      "case_link": "https://indiankanoon.org/docfragment/94860131/",
+      "citation": "2019 (4) SCC 522",
+      "judgment_date": "2019-02-22",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "State Of Rajasthan vs Shambhu Kewat & Anr",
+      "case_link": "https://indiankanoon.org/docfragment/193433171/",
+      "citation": "2014 (4) SCC 409",
+      "judgment_date": "2013-11-28",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "State Of M.P vs Deepak & Ors",
+      "case_link": "https://indiankanoon.org/docfragment/115365177/",
+      "citation": "2014 (10) SCC 285",
+      "judgment_date": "2014-09-10",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "State Of Maharashtra vs Sukhdeo Singh And Anr",
+      "case_link": "https://indiankanoon.org/docfragment/1824507/",
+      "citation": "1992 AIR 2100, 1992 SCR (3) 700",
+      "judgment_date": "1992-07-15",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "J. Ramesh Kamath & Ors vs Mohana Kurup & Ors",
+      "case_link": "https://indiankanoon.org/docfragment/112051717/",
+      "citation": "2016 (12) SCC 179",
+      "judgment_date": "2016-05-04",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "State Of Madhya Pradesh vs Saleem @ Chamaru And Anr",
+      "case_link": "https://indiankanoon.org/docfragment/440197/",
+      "citation": "2005 AIR SCW 3899",
+      "judgment_date": "2005-07-13",
+      "court": "Supreme Court of India"
+    }
+  ]
+}
+[
+  {
+    "section": "IPC Section 498A",
+    "cases": [
+      {
+        "case_name": "K. Srinivas Rao vs D.A. Deepa",
+        "case_link": "https://indiankanoon.org/doc/105496878/",
+        "citation": "2013 (5) SCC 226",
+        "judgment_date": "2013-02-22",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "State Of W.B vs Orilal Jaiswal",
+        "case_link": "https://indiankanoon.org/docfragment/337402/",
+        "citation": "1994 SCC (1) 73",
+        "judgment_date": "1993-09-23",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Hira Lal And Ors vs State (Govt. Of Nct) Delhi",
+        "case_link": "https://indiankanoon.org/doc/1074941/",
+        "citation": "2003 (8) SCC 80",
+        "judgment_date": "2003-07-25",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Satish Kumar Batra & Ors vs State Of Haryana",
+        "case_link": "https://indiankanoon.org/doc/1772042/",
+        "citation": "2013 (4) SCC 453",
+        "judgment_date": "2009-04-01",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "State Of A.P vs M. Madhusudhan Rao",
+        "case_link": "https://indiankanoon.org/doc/1336270/",
+        "citation": "2008 (15) SCC 582",
+        "judgment_date": "2008-10-24",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Girdhar Shankar Tawade vs State Of Maharashtra",
+        "case_link": "https://indiankanoon.org/doc/1813606/",
+        "citation": "2002 (5) SCC 177",
+        "judgment_date": "2002-04-24",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "S.V. Ramamurthy vs The Secretary To Government Of Tamil Nadu",
+        "case_link": "https://indiankanoon.org/doc/1038786/",
+        "citation": "2006 (3) CTC 353",
+        "judgment_date": "2006-04-28",
+        "court": "Madras High Court"
+      }
+    ]
+  }
+]
+{
+  "section": "IPC Section 380",
+  "cases": [
+    {
+      "case_name": "Birla Corporation Ltd. vs Adventz Investments And Holdings Ltd.",
+      "case_link": "https://indiankanoon.org/docfragment/160796086/",
+      "citation": "2019 SCC OnLine SC 561",
+      "judgment_date": "2019-05-09",
+      "court": "Supreme Court of India"
+    },
+    {
+      "case_name": "Hani Nishad @ Viccky @ Imran vs State Of U.P.",
+      "case_link": "https://indiankanoon.org/docfragment/49817829/",
+      "citation": "2020 SCC OnLine All 1361",
+      "judgment_date": "2020-11-11",
+      "court": "Allahabad High Court"
+    },
+    {
+      "case_name": "Thakore Tejaji Devaji And Ors. vs State Of Gujarat",
+      "case_link": "https://indiankanoon.org/docfragment/1673962/",
+      "citation": "2006 SCC OnLine Guj 140",
+      "judgment_date": "2006-03-20",
+      "court": "Gujarat High Court"
+    },
+    {
+      "case_name": "Kesavan Nair vs State Of Kerala",
+      "case_link": "https://indiankanoon.org/docfragment/1323537/",
+      "citation": "2005 SCC OnLine Ker 61",
+      "judgment_date": "2005-01-20",
+      "court": "Kerala High Court"
+    },
+    {
+      "case_name": "Shri D.J. Sen And Ors. vs The State And Anr.",
+      "case_link": "https://indiankanoon.org/docfragment/962895/",
+      "citation": "2002 SCC OnLine Cal 730",
+      "judgment_date": "2002-07-26",
+      "court": "Calcutta High Court"
+    },
+    {
+      "case_name": "Arvind Parmar @ Bunty Raja And Ors. vs State Of U.P.",
+      "case_link": "https://indiankanoon.org/docfragment/51734199/",
+      "citation": "2019 SCC OnLine All 5726",
+      "judgment_date": "2019-10-01",
+      "court": "Allahabad High Court"
+    },
+    {
+      "case_name": "State vs Santok Singh",
+      "case_link": "https://indiankanoon.org/docfragment/181169561/",
+      "citation": "2015 SCC OnLine Del 12937",
+      "judgment_date": "2015-05-26",
+      "court": "Delhi District Court"
+    },
+    {
+      "case_name": "Ramesan vs State Of Kerala",
+      "case_link": "https://indiankanoon.org/docfragment/75818779/",
+      "citation": "2015 SCC OnLine Ker 395",
+      "judgment_date": "2015-01-30",
+      "court": "Kerala High Court"
+    }
+  ]
+}
+{
+  "section": "IPC Section 457",
+  "cases": [
+    {
+      "case_name": "Pareshkumar Jaykarbhai Brahmbhatt vs State Of Gujarat",
+      "case_link": "https://indiankanoon.org/docfragment/50572539/",
+      "citation": "2017 SCC OnLine Guj 22194",
+      "judgment_date": "2017-12-15",
+      "court": "Gujarat High Court"
+    },
+    {
+      "case_name": "Hani Nishad @ Viccky @ Imran vs State Of U.P.",
+      "case_link": "https://indiankanoon.org/docfragment/49817829/",
+      "citation": "2020 SCC OnLine All 1361",
+      "judgment_date": "2020-11-11",
+      "court": "Allahabad High Court"
+    },
+    {
+      "case_name": "Santosh Kumar Mishra vs State Of M.P. And Ors.",
+      "case_link": "https://indiankanoon.org/docfragment/226621/",
+      "citation": "1982 SCC OnLine MP 35",
+      "judgment_date": "1982-10-30",
+      "court": "Madhya Pradesh High Court"
+    },
+    {
+      "case_name": "East India Co. vs Official Liquidator And Anr.",
+      "case_link": "https://indiankanoon.org/docfragment/595765/",
+      "citation": "1969 SCC OnLine Guj 22",
+      "judgment_date": "1969-06-25",
+      "court": "Gujarat High Court"
+    },
+    {
+      "case_name": "V. Radhakrishnan And Others vs P.R. Ramakrishnan And Others",
+      "case_link": "https://indiankanoon.org/docfragment/668565/",
+      "citation": "1992 SCC OnLine Mad 165",
+      "judgment_date": "1992-03-31",
+      "court": "Madras High Court"
+    },
+    {
+      "case_name": "Amit Dubey vs State Of Chhattisgarh",
+      "case_link": "https://indiankanoon.org/docfragment/63556599/",
+      "citation": "2019 SCC OnLine Chh 381",
+      "judgment_date": "2019-07-15",
+      "court": "Chhattisgarh High Court"
+    },
+    {
+      "case_name": "Shyam M. Sachdev vs The State And Another",
+      "case_link": "https://indiankanoon.org/docfragment/654603/",
+      "citation": "1990 SCC OnLine Del 578",
+      "judgment_date": "1990-08-22",
+      "court": "Delhi High Court"
+    },
+    {
+      "case_name": "Kishore Kumar Choudhury vs State Of Orissa",
+      "case_link": "https://indiankanoon.org/docfragment/170967260/",
+      "citation": "2017 SCC OnLine Ori 112",
+      "judgment_date": "2017-03-20",
+      "court": "Orissa High Court"
+    },
+    {
+      "case_name": "Shyamsingh vs The State Of Madhya Pradesh",
+      "case_link": "https://indiankanoon.org/docfragment/94844347/",
+      "citation": "2019 SCC OnLine MP 10",
+      "judgment_date": "2019-01-03",
+      "court": "Madhya Pradesh High Court"
+    }
+  ]
+}
+[
+  
+    "section": "Section 34 - Arbitration and Conciliation Act, 1996",
+    "cases": [
+      {
+        "case_name": "Associate Builders vs Delhi Development Authority",
+        "case_link": "https://indiankanoon.org/doc/18899749/",
+        "citation": "(2015) 3 SCC 49",
+        "judgment_date": "2014-11-25",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Union Of India vs Tarsem Singh",
+        "case_link": "https://indiankanoon.org/doc/213733914/",
+        "citation": "(2019) 9 SCC 304",
+        "judgment_date": "2019-09-19",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Oil & Natural Gas Corporation Ltd vs Saw Pipes Ltd",
+        "case_link": "https://indiankanoon.org/doc/1298463/",
+        "citation": "(2003) 5 SCC 705",
+        "judgment_date": "2003-04-17",
+        "court": "Supreme Court of India"
+      }
+   [
+  {
+    "section": "Section 34 - Arbitration and Conciliation Act, 1996",
+    "cases": [
+      {
+        "case_name": "Associate Builders vs Delhi Development Authority",
+        "case_link": "https://indiankanoon.org/docfragment/31621011/",
+        "citation": "(2015) 3 SCC 49",
+        "judgment_date": "2014-11-25",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Union Of India vs Tarsem Singh",
+        "case_link": "https://indiankanoon.org/docfragment/92512441/",
+        "citation": "(2019) 9 SCC 304",
+        "judgment_date": "2019-09-19",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Oil & Natural Gas Corporation Ltd vs Saw Pipes Ltd",
+        "case_link": "https://indiankanoon.org/docfragment/919241/",
+        "citation": "(2003) 5 SCC 705",
+        "judgment_date": "2003-04-17",
+        "court": "Supreme Court of India"
+      }
+    ]
+  },
+  {
+    "section": "Section 34 - Income Tax Act",
+    "cases": [
+      {
+        "case_name": "Commissioner Of Income-Tax vs M/S. Sun Engineering Works (P.) Ltd.",
+        "case_link": "https://indiankanoon.org/docfragment/1101298/",
+        "citation": "1992 AIR 2179, 1992 SCR (3) 732",
+        "judgment_date": "1992-09-17",
+        "court": "Supreme Court of India"
+      },
+      {
+        "case_name": "Smt. N. Illamathy vs The Income Tax Officer",
+        "case_link": "https://indiankanoon.org/docfragment/194180531/",
+        "citation": "2020 SCC OnLine Mad 34079",
+        "judgment_date": "2020-09-14",
+        "court": "Madras High Court"
+      },
+      {
+        "case_name": "Dr. Onkar Dutt Sharma vs Commissioner Of Income-Tax, U.P.",
+        "case_link": "https://indiankanoon.org/docfragment/1635131/",
+        "citation": "1966 AIR 1536",
+        "judgment_date": "1966-09-30",
+        "court": "Allahabad High Court"
+      }
+    ]
+  },
+  {
+    "section": "Section 34 - Code of Civil Procedure (CPC), 1908",
+    "cases": [
+      {
+        "case_name": "Central Bank Of India vs Ravindra And Ors",
+        "case_link": "https://indiankanoon.org/docfragment/1902234/",
+        "citation": "(2002) 1 SCC 367",
+        "judgment_date": "2001-10-18",
+        "court": "Supreme Court of India"
+      }
+    ]
+  }
+
+
+]
+
+
+  
+
+    
